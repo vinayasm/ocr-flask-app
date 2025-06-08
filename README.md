@@ -1,5 +1,6 @@
 **OCR Flask Web App**
-  A simple and user-friendly web application built with Flask that performs Optical Character Recognition (OCR) to extract text from uploaded images. The app uses Tesseract OCR through the pytesseract Python wrapper, along with image processing via OpenCV and Pillow libraries.
+
+A simple and user-friendly web application built with Flask that performs Optical Character Recognition (OCR) to extract text from uploaded images. The app uses Tesseract OCR through the pytesseract Python wrapper, along with image processing via OpenCV and Pillow libraries.
 
 Features
 1. Upload an image (JPEG, PNG, etc.) via a clean web interface
